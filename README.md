@@ -49,8 +49,6 @@ Dashboard       Results
 
 ## AI Component
 
-## AI Component
-
 The core intelligence of the application is provided by an **AI-based Natural Language Processing (NLP) classification pipeline**. It automatically processes financial complaint text and predicts the appropriate financial category, reducing the need for manual classification.
 
 The AI component provides the following functionality:
